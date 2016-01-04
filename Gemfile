@@ -1,10 +1,4 @@
 # A sample Gemfile
-source "http://rubygems.org"
+source "https://rubygems.org"
 
-# gem "rails"
-gem 'erubis'
-gem 'merimee', :require => false
-gem 'redcarpet'
-gem 'pandoc-ruby'
-gem 'facets'
-
+gem "guard-rake"
