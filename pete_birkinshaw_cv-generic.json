@@ -1,0 +1,203 @@
+{
+  "basics": {
+    "name": "Pete Birkinshaw",
+    "label": "Identity Engineer",
+    "picture": "",
+    "email": "pete@binary-ape.org",
+    "phone": "07967 215 499",
+    "website": "http://www.flickr.com/photos/binaryape/",
+    "summary": "Identity and Access Management Specialist, Ruby Developer, Devops Sysadmin, Test Engineer",
+    "location": {
+      "address": "7 James Brindley Basin",
+      "postalCode": "M1 2NL",
+      "city": "Manchester",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "binaryape",
+        "url": "https://twitter.com/binaryape"
+      },
+      {
+        "network": "Orcid",
+        "username": "0000-0003-4201-2264",
+        "url": "http://orcid.org/0000-0003-4201-2264"
+      },
+      {
+        "network": "Flickr",
+        "username": "binaryape",
+        "url": "http://www.flickr.com/photos/binaryape/"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "binaryape",
+        "url": "https://uk.linkedin.com/in/petebirkinshaw"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Digital Identity Ltd",
+      "position": "Founder",
+      "website": "http://digitalidentity.ltd.uk",
+      "startDate": "2010-01-10",
+      "summary": "Digital Identity Ltd is a new Manchester-based company that supplies federated identity services to higher education. Most of our work is based around applying the many benefits of Shibboleth and other SAML identity software to social and business web applications. We are currently focusing on our new Indiid cloud identity product but are still providing consulting, support and subcontracting services.",
+      "highlights": [
+        "Built online store",
+        "Puppet-managed cloud infrastructure",
+        "Market-leading SaaS product"
+      ]
+    },
+    {
+      "company": "BBC",
+      "position": "Software Developer in Test",
+      "website": "http://digitalidentity.ltd.uk",
+      "startDate": "2012-10",
+      "endDate": "2014-10",
+      "summary": "Middleware service testing: developing and supporting the automated test framework for BBC Search. This mostly involved using Ruby and Cucumber to test Java services.",
+      "highlights": [
+        "Part of the team that built http://www.bbc.co.uk/search"
+      ]
+    },
+    {
+      "company": "The University of Manchester",
+      "position": "Senior Directory and Registration Administrator",
+      "website": "http://digitalidentity.ltd.uk",
+      "startDate": "2005-01",
+      "endDate": "2012-06",
+      "summary": "Digital Identity Ltd is a new Manchester-based company that supplies federated identity services to higher education. Most of our work is based around applying the many benefits of Shibboleth and other SAML identity software to social and business web applications. We are currently focusing on our new Indiid cloud identity product but are still providing consulting, support and subcontracting services.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "UMIST",
+      "position": "PC Network Officer",
+      "website": "http://digitalidentity.ltd.uk",
+      "startDate": "2004-02",
+      "endDate": "2005-01",
+      "summary": "I performed varied backfill duties for Systems and Networking staff during the merger with Manchester University. I was UMIST Hostmaster and Postmaster and maintained proxy, IMAP and webmail services. I also processed CERT incidents and coordinated copyright enforcement procedures.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "Granada Learning",
+      "position": "Network Administrator",
+      "website": "http://digitalidentity.ltd.uk",
+      "startDate": "2000-06",
+      "endDate": "2004-01",
+      "summary": "I managed the development and maintenance of the Newcastle office network and intranet, Granada Learning's physical and Internet assets, co-hosted servers and VPN/WAN integration with other offices. I built a teacher-training classroom of 25 centrally managed PCs.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "Granada Learning",
+      "position": "Technical Researcher",
+      "website": "http://digitalidentity.ltd.uk",
+      "startDate": "1998-07",
+      "endDate": "2000-06",
+      "summary": "This position was a hybrid of Content Coordinator, Technical Support and System Administrator roles. I researched and implemented new features for multimedia products. I also maintained email and intranet servers and provided IT support to staff.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    },
+    {
+      "company": "Interactive Learning Productions",
+      "position": "Content Coordinator",
+      "website": "http://digitalidentity.ltd.uk",
+      "startDate": "1994-10",
+      "endDate": "1998-06",
+      "summary": "As a Content Coordinator I was responsible for acquiring, editing and supporting the content for a number of successful educational CD-ROMs. This included hiring and managing external authors, artists and actors, directing video and audio recording sessions, product proposals, and producing online and printed help and documentation.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Manchester",
+      "area": "Social Sciences",
+      "studyType": "Bachelor",
+      "startDate": "1990",
+      "endDate": "1993",
+      "gpa": "",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
