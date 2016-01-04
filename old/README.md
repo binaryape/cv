@@ -1,4 +1,0 @@
-cv
-==
-
-Curriculum vitae
