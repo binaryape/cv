@@ -7,6 +7,11 @@ OUT_DIR="compiled"
 
 task :default => :build
 
+desc "Install Javascript libraries and tools"
+task :setup do
+  sh "npm install hackmyresume -g"
+end
+
 desc "Watch and rebuild whenever the source file (#{SOURCE}) changes"
 task :guard do
   sh "bundle exec guard"
